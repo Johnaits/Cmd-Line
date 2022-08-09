@@ -1,0 +1,17 @@
+LS - LIST
+retorna a lista de itens dentro de um diretorio;
+
+CD - CHANGE DIRECTORY (cd Documents)
+alcança outra pasta, não precisa digitar a pasta toda, pode digitar apenas o começo e apertar TAB depois;
+
+CD ~ 
+retorna ao diretorio raiz
+
+SETINHA PARA CIMA
+executa o ultimo comando feito
+
+CD ..
+retorna um nível das pastas
+
+Ctrl+U
+limpa o comando antes de executá-lo
