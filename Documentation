@@ -15,3 +15,30 @@ retorna um nível das pastas
 
 Ctrl+U
 limpa o comando antes de executá-lo
+
+START 
+abre determinado arquivo ou documento (pode abrir um programa junto com um determinado arquivo: START Microsoft Visual Studio Code index.html)
+
+TOUCH
+cria um arquivo (colocar extensão após ponto)
+
+RM 
+remove um arquivo
+
+PWD
+printa o diretório completo em que está
+
+RM *
+remove todos os arquivos dentro da pasta
+
+RM -r
+remove uma pasta
+
+SUDO
+comando super user
+
+-rf
+com a flag f não há necessidade de confirmação
+
+https://www.learnenough.com/command-line-tutorial
+
